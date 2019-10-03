@@ -12,3 +12,8 @@ h1 {
   margin-right: auto;
   width:50%;
 }
+a {
+  padding: 10px;
+  text-align: center;
+  background-color: blue;
+}
