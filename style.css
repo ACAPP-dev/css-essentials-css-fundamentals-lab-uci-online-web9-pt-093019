@@ -18,7 +18,7 @@ h1 {
 
 }
 #featured-property p {
-  width: 600px;
+  width: auto;
   text-align: center;
 }
 nav {
