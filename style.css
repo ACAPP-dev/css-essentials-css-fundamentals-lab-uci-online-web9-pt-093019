@@ -18,7 +18,8 @@ h1 {
 
 }
 #featured-property p {
-  width: auto;
+  display: block;
+  width: 800px;
   text-align: center;
 }
 nav {
