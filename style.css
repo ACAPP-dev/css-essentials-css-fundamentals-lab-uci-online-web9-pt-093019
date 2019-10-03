@@ -14,8 +14,9 @@ h1 {
 }
 nav a {
   display: inline-block;
-  
-  align-self: center;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
   padding: 10px;
   text-align: center;
   color: black;
