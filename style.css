@@ -34,15 +34,11 @@ nav a {
 #details div{
   display: block;
   float: left;
- 
+  background-color: #FFEA1D;
+
   margin-right: auto;
   margin-left: auto;
   width: 400px;
   
   
-}
-#details div {
- 
- 
-  background-color: #FFEA1D
 }
